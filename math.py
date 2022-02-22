@@ -1,9 +1,9 @@
 def add(x,y):
  pass
  
-#Subtract implemetation
+
 def subtract(x,y):
- return x-y             #on master branch
+ pass            
 
 #Multiply implemetation
 def multiply(x,y):              #on bug456 branch
