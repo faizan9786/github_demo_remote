@@ -4,9 +4,9 @@ def add(x,y):
 def subtract(x,y):
   pass
 
-#Multiply implemetation
-def multiply(x,y):              #on bug456 branch
- return x*y
+
+def multiply(x,y):              
+ pass
 
 #Divide implemetation
 def divide(x,y):             #on master branch
